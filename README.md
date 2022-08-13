@@ -31,10 +31,9 @@ Patika.dev veriyapıları project
 | -------------------- | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 |                      |      |      |      |      |  7   |      |      |
 |                      |      |      |      |  /   |      |  \   |      |
-|                      |      |      |  5   |      |      |      |  8   |
+| sağ tarafa 8 eklendi |      |      |  5   |      |      |      |  8   |
 |                      |      |  /   |      |      |      |      |      |
-| sağ tarafa 8 eklendi |  1   |      |      |      |      |      |      |
-
+|                      |  1   |      |      |      |      |      |      |
 
 **3 sayısı 7'den küçük 1 den büyük olduğundan dolayı 1'in sağına eklendi**
 
