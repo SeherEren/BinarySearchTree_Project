@@ -65,6 +65,17 @@ Patika.dev veriyapıları project
 
 **0 sayısı 7,5,1 den küçük olduğundan dolayı sola eklendi**
 
+| Açıklama             |      |      |      |      |      |      |      |      |      |
+| -------------------- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|                      |      |      |      |      |      |      |  7   |      |      |
+|                      |      |      |      |      |      |  /   |      |  \   |      |
+|                      |      |      |      |      |  5   |      |      |      |  8   |
+|                      |      |      |      |  /   |      |  \   |      |      |      |
+|                      |      |      |  1   |      |      |      |  6   |      |      |
+|                      |      |  /   |      |  \   |      |      |      |      |      |
+| sol tarafa 0 eklendi |  0   |      |      |      |  3   |      |      |      |      |
+
+
 
 **9 sayısı 7 den büyük olduğundan dolayı sağa eklendi**
 
