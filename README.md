@@ -7,7 +7,7 @@ Patika.dev veriyapıları project
 | -------- | :--: | :--: | ---- |
 | root=7   |      |  7   |      |
           
-**5 sayısı 7'den küçük olduğu için 7'nin soluna ekledik**
+**5 sayısı 7'den küçük olduğu için 7'nin soluna eklendi**
 
 | Açıklama             |      |      |      |      |      |
 | :------------------- | :--: | :--: | :--: | ---- | ---- |
@@ -49,7 +49,7 @@ Patika.dev veriyapıları project
 | sağ tarafa 3 eklendi |      |      | 3    |      |      |      |      
 
 
-**6 sayısı 7'den küçük 5 den büyük olduğundan dolayı 5'in sağına eklendi**
+**6 sayısı 7'den küçük 5 den büyük olduğundan dolayı 5'nin sağına eklendi**
 
 | Açıklama             |      |      |      |      |      |      |      |
 | -------------------- | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -77,7 +77,7 @@ Patika.dev veriyapıları project
 
 
 
-**9 sayısı 7 den büyük olduğundan dolayı sağa eklendi**
+**9 sayısı 7 ve 8 den büyük olduğundan dolayı sağa eklendi**
 
 | Açıklama             |      |      |      |      |      |      |      |      |      |      |      |
 | -------------------- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -90,7 +90,7 @@ Patika.dev veriyapıları project
 |                      |  0   |      |      |      |  3   |      |      |      |      |      |      |
 
 
-**4 sayısı 7,5 den küçük 3 den büyük olduğundan sağa eklendi**
+**4 sayısı 7,5 den küçük 3 den büyük olduğundan 3 ün sağına eklendi**
 
 | Açıklama             |      |      |      |      |      |      |      |      |      |      |      |
 | -------------------- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -106,7 +106,7 @@ Patika.dev veriyapıları project
 
 
 
-**2 sayısı 7,5,3 den küçük olduğundan sola eklendi**
+**2 sayısı 7,5,3 den küçük olduğundan 3 ün soluna eklendi**
 
 | Açıklama             |      |      |      |      |      |      |      |      |      |      |      |
 | -------------------- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
