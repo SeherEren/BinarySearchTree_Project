@@ -79,6 +79,16 @@ Patika.dev veriyapıları project
 
 **9 sayısı 7 den büyük olduğundan dolayı sağa eklendi**
 
+| Açıklama             |      |      |      |      |      |      |      |      |      |      |      |
+| -------------------- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|                      |      |      |      |      |      |      |  7   |      |      |      |      |
+|                      |      |      |      |      |      |  /   |      |  \   |      |      |      |
+|                      |      |      |      |      |  5   |      |      |      |  8   |      |      |
+|                      |      |      |      |  /   |      |  \   |      |      |      |  \   |      |
+|                      |      |      |  1   |      |      |      |  6   |      |      |      |  9   |
+|                      |      |  /   |      |  \   |      |      |      |      |      |      |      |
+| sol tarafa 0 eklendi |  0   |      |      |      |  3   |      |      |      |      |      |      |
+
 
 **4 sayısı 7,5 den küçük 3 den büyük olduğundan sağa eklendi**
 
