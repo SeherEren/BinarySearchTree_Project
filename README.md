@@ -51,6 +51,16 @@ Patika.dev veriyapıları project
 
 **6 sayısı 7'den küçük 5 den büyük olduğundan dolayı 5'in sağına eklendi**
 
+| Açıklama             |      |      |      |      |      |      |      |
+| -------------------- | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|                      |      |      |      |      |  7   |      |      |
+|                      |      |      |      |  /   |      |  \   |      |
+|                      |      |      |  5   |      |      |      |  8   |
+|                      |      |  /   |      |  \   |      |      |      |
+| sağ tarafa 6 eklendi |  1   |      |      |      |  6   |      |      |
+|                      |      |  \   |      |      |      |      |      |
+|                      |      |      |  3   |      |      |      |      |
+
 
 
 **0 sayısı 7,5,1 den küçük olduğundan dolayı sola eklendi**
