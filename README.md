@@ -7,7 +7,7 @@ Patika.dev veriyapıları project
 | -------- | :--: | :--: | ---- |
 | root=7   |      |  7   |      |
           
-**5 sayısı 7'den küçük olduğu için 7'nin soluna ekledik
+**5 sayısı 7'den küçük olduğu için 7'nin soluna ekledik**
 
 | Açıklama |      |      |      |      |      |
 | :------- | :--: | :--: | :--: | ---- | ---- |
